@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build AI Workflow"
+  short_description: "Build repeatable AI workflows that touch real systems."
+  default_prompt: "Help me build this AI workflow with the checks it needs before touching real systems."
